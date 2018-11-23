@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    int input;
     printf("Hello Git Again!");
-    printf("Hello TO ALL Amin at D23!");
+    scanf("%d", &input);
 }
