@@ -1,0 +1,24 @@
+⁃  introduction
+  ⁃  install
+  ⁃  gui?  Smartgitx
+  ⁃  concepts
+  ⁃  stage
+  ⁃  commit
+  ⁃  tag
+  ⁃  remote
+  ⁃  github
+  ⁃  repo
+  ⁃  environment
+  ⁃  pull
+  ⁃  push
+  ⁃  branch
+  ⁃  version
+  ⁃  rebase
+  ⁃  merge
+  ⁃  members
+  ⁃  conflict
+  ⁃  revert
+  ⁃  fork
+  ⁃  clone
+  ⁃  pull request
+  ⁃  handling pull requests
